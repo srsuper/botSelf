@@ -18,7 +18,7 @@ botStart = time.time()
 #===============================================================================#
 print ("\n\n『❌꧁༺ǿอ๊ดSƹɨρř༻꧂❌』\n")
 line = LINE('')
-line.log("Auth Token : " + str(line.authToken))
+line.log("Auth Token : SNhLPQkWDfSJz+EAdY9T+7d0Nk0AMu7NTBb5cYm1qB1FkOcmfU8zJ/UMpup5H5/uFDyq0K3RPUWbZwSQy998IuzAoVWyy7EJoUdUmCCfT+U2j/sdgiT1BSmPhU0R8Ie6fp0KMRRrhTpefShjDC2JmgdB04t89/1O/w1cDnyilFU= " + str(line.authToken))
 lineMID = line.profile.mid
 lineProfile = line.getProfile()
 lineSettings = line.getSettings()
@@ -29,9 +29,9 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["uef87f03f8c0164be61a3da7b8f20cd9b",lineMID]
-admin=['uef87f03f8c0164be61a3da7b8f20cd9b',lineMID]
-adminMID="uef87f03f8c0164be61a3da7b8f20cd9b"
+Family=["U1610895050e906214bd1b1e707e3d2f2",lineMID]
+admin=['U1610895050e906214bd1b1e707e3d2f2',lineMID]
+adminMID="U1610895050e906214bd1b1e707e3d2f2"
 RfuFamily = RfuBot + Family
 msg_dict = {}
 msg_image={}
